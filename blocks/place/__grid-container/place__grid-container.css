@@ -1,0 +1,14 @@
+.place__grid-container {
+  display: flex;
+  flex-direction: column;
+  align-self: end;
+}
+
+.place__grid-container:last-child {
+  align-self: start;
+}
+@media screen and (max-width: 1024px) {
+  .place__grid-container:nth-child(3) {
+    align-self: flex-start;
+  }
+}

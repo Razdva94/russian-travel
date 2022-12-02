@@ -1,0 +1,21 @@
+.cover {
+  margin: 92px 48px 92px 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 1s;
+}
+.cover:hover .cover__background {
+  opacity: .3;
+}
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin: 92px 0 92px 0;
+  }
+}
+@media screen and (max-width:690px) {
+  .cover {
+    margin: 66px 0 64px 0;
+}
+}

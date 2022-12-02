@@ -1,0 +1,22 @@
+.header__lang-link {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #FFFFFF;
+}
+.header__lang-link:nth-child(1) {
+  border-bottom: #FFFFFF 2px solid;
+  padding-bottom: 1px;
+  margin-right: 18px;
+}
+@media screen and (max-width: 425px) {
+  .header__lang-link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: right;
+  }
+  }
