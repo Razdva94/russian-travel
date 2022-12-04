@@ -12,4 +12,4 @@
 
 
 
-https://razdva94.github.io/russian-travel/- ссылка в GitHub pages
+https://razdva94.github.io/russian-travel/ - ссылка в GitHub pages
