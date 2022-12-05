@@ -4,17 +4,11 @@
 }
 @media screen and (max-width: 768px) {
   .footer {
-    display: flex;
-    padding: 0 24px 24px 24px;
+    padding: 0 16px 24px 16px;
   }
 }
 @media screen and (max-width: 767px) {
   .footer {
-    display: flex;
     flex-direction: column;
-    width: -moz-fit-content;
-    width: fit-content;
-    margin-left: 0;
-    margin-right: auto;
   }
 }

@@ -14,10 +14,7 @@
 @media screen and (max-width:690px) {
   .cover__title {
     font-size: 32px;
-    font-weight: 900;
     line-height: 35px;
-    letter-spacing: 0em;
-    text-align: center;
     height: fit-content;
     margin-bottom: 16px;
     width: 288px;
