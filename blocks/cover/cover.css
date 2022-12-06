@@ -1,12 +1,13 @@
 .cover {
   margin: 92px 48px 92px 48px;
   position: relative;
-  transition: opacity 1s;
+  
 }
+.cover:hover .cover__hover{
+  opacity: .8;
+ }
 
-.cover:hover .cover__background {
-  opacity: .3;
-}
+
 
 @media screen and (max-width: 1024px) {
   .cover {
