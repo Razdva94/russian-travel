@@ -17,6 +17,6 @@
 
 ## Ссылки проекта
 
-* https://razdva94.github.io/russian-travel
+* [Ссылка на проект](https://razdva94.github.io/russian-travel)
 
 
